@@ -1,11 +1,9 @@
-body {
-    /* Configuración del fondo */
-    background-image: url('ruta/a/tu/gif.gif');
-    background-size: cover; /* Esto ajusta el tamaño del GIF para cubrir todo el fondo */
-    background-repeat: no-repeat; /* Esto evita que el GIF se repita */
-}
-
-h1{
+h1, h2{
     color: black;
     background-color: cornflowerblue;
+    text-align: center;
+    margin-bottom: 10px;
+}
+p {
+    margin-bottom: 20px; /* Puedes ajustar el valor según el espacio que desees */
 }
