@@ -7,3 +7,15 @@ h1, h2{
 p {
     margin-bottom: 20px; /* Puedes ajustar el valor según el espacio que desees */
 }
+.contenedor {
+    text-align: center; /* Centrar horizontalmente */
+}
+
+.contenedor img {
+    display: block; /* Evita que otros elementos se alineen alrededor */
+    margin: 0 auto; /* Centrar horizontalmente */
+}
+.imagen-pequeña {
+    width: 200px; /* Ancho deseado */
+    height: auto; /* Para mantener la proporción de aspecto */
+}
